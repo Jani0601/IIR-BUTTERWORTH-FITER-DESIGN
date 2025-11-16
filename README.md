@@ -102,5 +102,7 @@ xgrid();
 <img width="944" height="830" alt="image" src="https://github.com/user-attachments/assets/f07f671f-34a4-4442-ae5d-865acd80f345" />
 
 
+
+
 ## RESULT: 
 Thus, design of Butterworth Low pass and high pass IIR filter waveforms were plotted and output wasverified.
